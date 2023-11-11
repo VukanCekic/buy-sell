@@ -25,9 +25,7 @@ Before you can run the project, ensure you have the following dependencies insta
 
 ### Installation
 1. Clone this repository to your local machine:
-   ```sh
-   git clone https://github.com/your-username/e-commerce-microservice.git
-   cd e-commerce-microservice
+
 
 
 ## System Overview
